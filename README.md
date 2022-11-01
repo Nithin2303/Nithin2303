@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nithin tumarada</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="2wCEAAkGBw8OEBUQEBAVFRUXFhUWGBYXGRUVGBYYFRUXGBUXFRoYHSggGBslHxUWIjEhJSkrLi4uFyAzODMtOCgtLisBCgoKDg0OGhAQGi0lHyUtLS0rKy0rKy0tLS8tLS0tLS0tLS0tLS0tLS0tLS0tLSstLS0tLS0tLS0tLS0tLS0tLf">
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl2iBCsGCgR64_UnOQA8rj7Fe_EGa4_eQXkw&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithin2303&label=Profile%20views&color=0e75b6&style=flat" alt="nithin2303" /> </p>
 
